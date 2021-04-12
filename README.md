@@ -1,10 +1,10 @@
 # mittlearning
-*/css*
-*/images*
-*/js*
-**index.html**
-_aboutme.html_
-__research.html__
-*contactme.html*
+*/css*    <br/>
+*/images*    <br/>
+*/js*    <br/>
+**index.html**    <br/>
+_aboutme.html_   <br/>
+__research.html__    <br/>
+*contactme.html*    <br/>
 <br/>
 ###mitt
