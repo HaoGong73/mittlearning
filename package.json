@@ -1,0 +1,22 @@
+{
+  "name": "mittlearning",
+  "version": "1.0.0",
+  "description": "*/css*    <br/> */images*    <br/> */js*    <br/> **index.html**    <br/> _aboutme.html_   <br/> __research.html__    <br/> *contactme.html*    <br/> <br/> ###mitt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaoGong73/mittlearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaoGong73/mittlearning/issues"
+  },
+  "homepage": "https://github.com/HaoGong73/mittlearning#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
